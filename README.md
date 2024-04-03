@@ -9,6 +9,7 @@
   * overfitting ridge lasso
   * regression on house prices and Philly crime rates
 ## Course 3: Classificaiton
-  * 
+  * classification of images
 ## Course 4: Clustering
+  * document retrieval
 
